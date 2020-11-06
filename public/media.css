@@ -1,0 +1,68 @@
+@media only screen and (min-width: 750px) {
+  .single{
+    width: 24%;
+  }
+  .double{
+    width: 55%;
+  }
+  .height-110{
+    min-height: 110px;
+    height: auto;
+  }
+  .row-tablet{
+    flex-direction: row;
+  }
+  .numbers-tablet{
+    height: 100%;
+    width: 44%;
+    min-height: 110px;
+  }
+  .size-1{
+    font-size: 35px;
+  }
+  .size-2{
+    font-size: 28px;
+  }
+  .size-3{
+    font-size: 24px;
+  }
+  .size-4{
+    font-size: 16px;
+  }
+  .size-5{
+    font-size: 12px;
+  }
+  .size-6{
+    font-size: 9px;
+  }
+  .v-p-25-tablet{
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+  .m-l-50-tablet{
+    margin-left: 50px;
+  }
+  .m-r-50-tablet{
+    margin-right: 50px;
+  }
+  .max-350{
+    max-width: 600px;
+  }
+  .arrow-down{
+    transform: translate(-50%,-110%) scale(0.7);
+  }
+  .v-line{
+    height: 264px;
+    top: 49px;
+    width: 3px;
+  }
+  .h-line{
+    width: 605px;
+    top: 310px;
+    height: 3px;
+  }
+  .p-l{
+    width: 1200px;
+    height: 432px;
+  }
+}
