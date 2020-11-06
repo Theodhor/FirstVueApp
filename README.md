@@ -10,13 +10,3 @@ pull some data via an API request and display it through a chart.
   - CSS3
 
 ### [Web-page link](https://www.theodhorshyti.com/FirstVue/index.html)
-```
-
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
